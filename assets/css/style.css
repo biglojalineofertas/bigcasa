@@ -441,4 +441,5 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
   .rodape-grid { grid-template-columns: 1fr; }
   .zap-flutuante { width: 56px; height: 56px; right: 16px; bottom: 16px; }
   .voltar-topo { right: 21px; bottom: 84px; }
+  .zap-flutuante { display: none !important; }
 }
